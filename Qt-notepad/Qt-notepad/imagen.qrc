@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>imagenes/abrir.png</file>
+        <file>imagenes/Apollo_17_The_Last_Moon_Shot_Edit1.tga</file>
+        <file>imagenes/ayuda.png</file>
+        <file>imagenes/cerrar.png</file>
+        <file>imagenes/copiar.jpg</file>
+        <file>imagenes/copiar.png</file>
+        <file>imagenes/cortar.png</file>
+        <file>imagenes/cursiva.jpg</file>
+        <file>imagenes/descarga.jpg</file>
+        <file>imagenes/deshacer.png</file>
+        <file>imagenes/emblem-web.png</file>
+        <file>imagenes/fuente.jpg</file>
+        <file>imagenes/guardar.jpg</file>
+        <file>imagenes/guardar.png</file>
+        <file>imagenes/negrita.jpg</file>
+        <file>imagenes/pegar.png</file>
+        <file>imagenes/rehacer.png</file>
+        <file>imagenes/subrayado.jpg</file>
+    </qresource>
+</RCC>
